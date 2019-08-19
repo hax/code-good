@@ -6,11 +6,6 @@ hax
 
 贺师俊
 
-zhihu: @贺师俊
-github: @hax
-twitter: @haxy
-weibo: @johnhax
-
 知乎 @贺师俊
 GitHub @hax
 Twitter @haxy
